@@ -1,6 +1,6 @@
 # colours-demo
 
-Circular puzzles using colours
+**Circular puzzles using colours**
 
 
 
